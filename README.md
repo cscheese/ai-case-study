@@ -16,8 +16,12 @@ _The Connolly was originally founded in 1979 as a small family business which fo
 **Cotiviti, Inc. is a healthcare analytics company with 25+ years of experience (1). Founded in 2014 by Advent International through a merger of Connnolly Inc. and iHealth Technologies, Cotiviti has become a leader in Healthcare data analytics and retail payment solutions (2)**
 
 
-
-
+What specific problem is the company or project trying to solve?
+Who is the company’s intended customer? Is there any information about the market size of this set of customers?
+What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+What technologies are they currently using and how are they implementing them? (This may take a bit of sleuthing - you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+	Provide a detailed description of the company's field, audience, solution, and business metrics. (5 points)
+	Present company information in a clear and well-organized manner. (5 points)
 
 ## Landscape
 
