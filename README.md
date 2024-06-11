@@ -48,6 +48,21 @@ The top three competitors for Cotiviti in Health Analytics include: IQVIA – ra
 
 
 ## Addendum -Sources/References
+1.	[Cotiviti](https://www.cotiviti.com/)
+2.	[Connolly iHealth Technologies Changes Name to Cotiviti](https://www.businesswire.com/news/home/20150928005874/en/Connolly-iHealth-Technologies-Changes-Name-to-Cotiviti)
+3.	[iHealth Technologies](https://www.crunchbase.com/organization/ihealth-technologies) 
+4.	[Advent International](https://www.adventinternational.com/investments/case-studies/case-study/?case_study_id=cotiviti)
+5.	[Cotiviti Retail](https://retail.cotiviti.com/about) 
+6.	(Cotiviti. Webinar: Zero Hour Alerts](https://info.cotiviti.com/webinar/from-recovery-audit-to-preventive-alerts-how-to-stop-margin-loss-at-the-zero-hour) 
+7.	[Cotiviti. About](https://www.cotiviti.com/about#) 
+8.	[Zimlichman E, Henderson D, Tamir O, et al. Health Care–Associated Infections: A Meta-analysis of Costs and Financial Impact on the US Health Care System. JAMA Intern Med. 2013;173(22):2039–2046. doi:10.1001/jamainternmed.2013.9763](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/1733452) 
+9.	[Marzban S, Najafi M, Agolli A, Ashrafi E. Impact of Patient Engagement on Healthcare Quality: A Scoping Review. Journal of Patient Experience. 2022;9. doi:10.1177/23743735221125439](https://journals.sagepub.com/doi/full/10.1177/23743735221125439) 
+10.	[Cotiviti. Solutions](https://www.cotiviti.com/solutions/consumer-engagement/eliza-member-engagement?utm_source=linkedin&utm_medium=social) 
+11.	[6Sense](https://6sense.com/tech/health-analytics/cotiviti-market-share)
+12.	[Kulikowski, C. A. (2019). Beginnings of artificial intelligence in medicine (AIM): computational artifice assisting scientific inquiry and clinical art–with reflections on present aim challenges. Yearbook of medical informatics, 28(01), 249-256.](https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0039-1677895) 
+13.	[Hirani R, Noruzi K, Khuram H, Hussaini AS, Aifuwa EI, Ely KE, Lewis JM, Gabr AE, Smiley A, Tiwari RK, et al. Artificial Intelligence and Healthcare: A Journey through History, Present Innovations, and Future Possibilities. Life. 2024; 14(5):557. https://doi.org/10.3390/life14050557](https://www.mdpi.com/2075-1729/14/5/557)
+
+[Resource received from Tutoring session](https://medium.com/@saumya.ranjan/how-to-write-a-readme-md-file-markdown-file-20cb7cbcd6f) 
 
 
 
